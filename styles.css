@@ -1,0 +1,18 @@
+body {
+   margin: 30px;
+}
+
+#welcome {
+    font-size: 24px;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    padding: 10px;
+}
+
+.effects {
+display: grid;
+grid-template-columns: 1fr 2fr;
+}
